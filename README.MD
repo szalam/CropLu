@@ -7,4 +7,4 @@ THE Codes IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
 * Reference: https://www.mdpi.com/2072-4292/13/4/650
 
 
-![alt text](https://github.com/szalam/CropLu/master/03_figure/map.png)
+![alt text](https://github.com/szalam/CropLu/blob/master/03_figure/map.png)
